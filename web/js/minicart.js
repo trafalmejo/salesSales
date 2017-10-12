@@ -1914,7 +1914,7 @@ var defaults = module.exports = {
     styles: '',
 
     strings: {
-        button: 'Shop More',
+        button: 'BUY!',
         subtotal: 'Subtotal:',
         discount: 'Discount:',
         empty: 'Your shopping cart is empty'
