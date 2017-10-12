@@ -501,7 +501,7 @@ li.w3pages .dropdown-menu > li > a:hover{
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
-	min-height:700px;
+	min-height:400px;
 } 
 .banner.banner10{
 	min-height:300px;
@@ -3073,7 +3073,7 @@ td.invert-image a img {
 		margin: 8em 0 0;
 	} 
 	.banner {
-		min-height: 580px;
+		min-height: 300px;
 	}
 	.agileinfo_banner_bottom1_grid_left {
 		background-position:-95px 0px;
@@ -3132,7 +3132,7 @@ td.invert-image a img {
 		font-size: 1.5em;
 	}
 	.banner {
-		min-height: 500px;
+		min-height: 300px;
 	}
 	.nav > li > a {
 		padding: 10px 10px;
@@ -3282,7 +3282,7 @@ td.invert-image a img {
 		font-size: 1.4em;
 	}
 	.banner {
-		min-height: 455px;
+		min-height: 300px;
 	}
 	.modal_body_left1 {
 		float: left;
@@ -3592,7 +3592,7 @@ td.invert-image a img {
 		margin: 7em 0 0;
 	}
 	.banner {
-		min-height: 425px;
+		min-height: 250px;
 	}
 	.modal_body_right h4 {
 		font-size:1.2em;
