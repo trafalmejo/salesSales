@@ -715,6 +715,28 @@ li.w3pages .dropdown-menu > li > a:hover{
 	-moz-transition:.5s all;
 	transition:.5s all;
 }
+button.w3ls-cart {
+    text-align: center;
+    font-size: 5em;
+    color: #fff;
+    margin: 0;
+    width: 100%;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: .5em .5em;
+    border: 1px solid #6c2b7c;
+    background: #6c2b7c;
+    outline: none;
+    -webkit-transition:.5s all;
+    -moz-transition:.5s all;
+    transition:.5s all;
+}
+button.w3ls-cart:hover{
+    text-align: center;
+    background:#fd1581;
+    color:#fff;
+    border:1px solid #fd1581;
+}
 .simpleCart_shelfItem button.w3ls-cart:hover{
 	background:#fd1581;
 	color:#fff;
